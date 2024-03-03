@@ -1,0 +1,13 @@
+enclass License
+
+Copyright (c) 2024 enclass tech
+
+Permission is hereby denied to any person or entity to copy, modify, merge, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+This project's code, including but not limited to source code, documentation, and associated files, is strictly protected under this license. No person or entity is authorized to use, copy, modify, distribute, sublicense, or sell any part of the project without explicit permission from the copyright holder.
+
+For inquiries regarding the use of this project, contact us at support@enclass.site
